@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/taapman/static/css/main.6bf74ff9.chunk.css",
+    "main.js": "/taapman/static/js/main.d1d4e0f6.chunk.js",
+    "main.js.map": "/taapman/static/js/main.d1d4e0f6.chunk.js.map",
+    "runtime-main.js": "/taapman/static/js/runtime-main.aade69ac.js",
+    "runtime-main.js.map": "/taapman/static/js/runtime-main.aade69ac.js.map",
+    "static/js/2.9968a9db.chunk.js": "/taapman/static/js/2.9968a9db.chunk.js",
+    "static/js/2.9968a9db.chunk.js.map": "/taapman/static/js/2.9968a9db.chunk.js.map",
+    "index.html": "/taapman/index.html",
+    "precache-manifest.b6481fa9fb321bcfac67b74d2c12ef7f.js": "/taapman/precache-manifest.b6481fa9fb321bcfac67b74d2c12ef7f.js",
+    "service-worker.js": "/taapman/service-worker.js",
+    "static/css/main.6bf74ff9.chunk.css.map": "/taapman/static/css/main.6bf74ff9.chunk.css.map",
+    "static/js/2.9968a9db.chunk.js.LICENSE.txt": "/taapman/static/js/2.9968a9db.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aade69ac.js",
+    "static/js/2.9968a9db.chunk.js",
+    "static/css/main.6bf74ff9.chunk.css",
+    "static/js/main.d1d4e0f6.chunk.js"
+  ]
+}
