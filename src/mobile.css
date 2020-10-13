@@ -1,0 +1,48 @@
+@media only screen and (max-width: 700px) {
+  #in {
+    width: 40%;
+    color: white;
+    border: 2px solid #3c3949;
+    background-color: #454254;
+    font-size: 1.1rem;
+    border-width: 1px;
+    border-radius: 20px;
+    padding: 10px;
+    height: auto;
+    margin-right: 0.5rem;
+  }
+  button {
+    margin-right: 0.5rem;
+  }
+  .card {
+    color: white;
+    width: 95%;
+    margin-bottom: 2rem;
+    text-align: center;
+    border: 1px solid black;
+    background-color: #3a3848;
+  }
+  #date {
+    background-color: rgb(69, 66, 84);
+    font-size: auto;
+    padding: 0.8rem 0rem;
+  }
+  #da {
+    margin-right: 45%;
+  }
+  .cont {
+    text-align: none;
+    display: block;
+    margin-left: 2rem;
+  }
+  #city {
+    margin-right: 0px;
+    text-align: center;
+  }
+  #info {
+    display: inline-flex;
+    display: -webkit-inline-box;
+    margin-bottom: 2rem;
+    margin-right: none;
+  }
+}
